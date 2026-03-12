@@ -28,4 +28,5 @@ Statics:
 ├── getTopViewed()
 ├── getTopRated()
 ├── getByCategory()
+
 └── getByLanguage()
